@@ -1,4 +1,4 @@
-# Rasceiver
+# rasceiver
 A project by Simon Bosslet 
 
 I want to build a custom receiver.
